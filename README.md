@@ -1,5 +1,5 @@
 <h1 align="center">👨💻 Movine Odhiambo</h1>
-<h3 align="center">Junior Full-Stack Developer | Computer Science Student</h3>
+<h3 align="center">Backend Engineer | Computer Science Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/movine-odhiambo-5b4b5935a/">
@@ -71,6 +71,4 @@
 - 🌐 Live Projects: [Portfolio](https://movine-portfolio.vercel.app/)
 - 📧 Direct Contact: [movineee@gmail.com](mailto:movineee@gmail.com)
 
-<p align="center">
-  <img src="https://github.com/Movineo/movineo/assets/135596441/4957f143-bd34-41b9-aac4-57bc327721e5" width="250" alt="Movine Coding">
-</p>
+
