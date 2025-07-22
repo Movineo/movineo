@@ -68,7 +68,7 @@
 ### 📫 Let's Connect
 
 - 💼 Professional Network: [LinkedIn](https://www.linkedin.com/in/movine-odhiambo-5b4b5935a/)
-- 🌐 Live Projects: [Portfolio](https://movine-portfolio.vercel.app/)
+- 🌐 Live Projects: [Portfolio](https://movinetr.xyz/)
 - 📧 Direct Contact: [movineee@gmail.com](mailto:movineee@gmail.com)
 
 
